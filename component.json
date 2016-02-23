@@ -2,9 +2,9 @@
     "repos": "https://github.com/lodash/lodash.git",
     "description": "Lodash modular utilities.",
     "name": "lodash",
-    "main": "index.js",
+    "main": "lodash.js",
     "umd2commonjs": null,
-    "version": "4.0.1",
+    "version": "4.2.0",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {}
